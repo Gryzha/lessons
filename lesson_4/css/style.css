@@ -1,0 +1,29 @@
+@import url("reset.css");
+
+span {
+	color: aqua;
+}
+
+.ul {
+	color: hotpink;
+}
+
+#item-1 {
+	color: chartreuse;
+}
+
+[id="item-3"] {
+	color: dodgerblue;
+}
+
+.text-centr-1 p {
+	color: brown;
+}
+
+.text-centr-2>p {
+	color: darkkhaki;
+}
+
+.list~li {
+	color: red;
+}
